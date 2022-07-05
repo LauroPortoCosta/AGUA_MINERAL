@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/26 14:25:04.000.438,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/23 00:07:39.000.261,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/23 00:08:43.000.368,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Agua_GV2\Agua_nulo.pas</Transaction>
+    <Transaction>2022/04/23 00:08:43.000.368,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Agua_GV2\Agua_nulo.fmx</Transaction>
+    <Transaction>2022/04/23 00:09:05.000.215,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Agua_GV2\Agua_Proj.dproj</Transaction>
+    <Transaction>2022/04/23 00:10:37.000.255,=C:\Agua_GV2\agua_login.pas</Transaction>
+    <Transaction>2022/04/23 00:11:44.000.263,=C:\Agua_GV2\agua1_DM.pas</Transaction>
+    <Transaction>2022/04/23 00:13:24.000.755,=C:\Agua_GV2\agua1_menu.pas</Transaction>
+    <Transaction>2022/04/23 01:03:53.000.117,=C:\Agua_GV2\agua_tabela.pas</Transaction>
+    <Transaction>2022/04/23 08:47:48.000.656,=C:\Agua_GV2\agua_Reltab.pas</Transaction>
+    <Transaction>2022/04/23 08:48:52.000.961,=C:\Agua_GV2\agua_recad.pas</Transaction>
+    <Transaction>2022/04/23 08:49:55.000.661,=C:\Agua_GV2\agua1_livre.pas</Transaction>
+    <Transaction>2022/04/23 08:50:48.000.626,=C:\Agua_GV2\agua_clien.pas</Transaction>
+    <Transaction>2022/04/23 08:51:35.000.659,=C:\Agua_GV2\agua_IncCli.pas</Transaction>
+    <Transaction>2022/04/23 08:53:39.000.757,=C:\Agua_GV2\agua_RelReca.pas</Transaction>
+    <Transaction>2022/04/23 08:57:10.000.644,=C:\Agua_GV2\Units\FMX.BitmapHelper.pas</Transaction>
+    <Transaction>2022/04/23 08:57:54.000.586,=C:\Agua_GV2\Units\AnonThread.pas</Transaction>
+    <Transaction>2022/04/23 08:58:03.000.105,=C:\Agua_GV2\Units\OpenViewUrl.pas</Transaction>
+    <Transaction>2022/04/23 08:58:50.000.004,=C:\Agua_GV2\agua_Relserv.pas</Transaction>
+    <Transaction>2022/04/23 08:59:28.000.192,=C:\Agua_GV2\agua_reser_ve.pas</Transaction>
+    <Transaction>2022/05/04 10:50:45.000.186,=C:\Agua_GV2\agua_localizacao.pas</Transaction>
+    <Transaction>2022/05/09 14:27:38.000.692,C:\Agua_GV2\Agua_nulo.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>

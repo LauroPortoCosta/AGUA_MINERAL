@@ -1,0 +1,11 @@
+object agua_livre: Tagua_livre
+  Left = 0
+  Top = 0
+  Caption = 'formulario livre'
+  ClientHeight = 528
+  ClientWidth = 296
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+end
